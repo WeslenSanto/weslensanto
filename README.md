@@ -1,4 +1,9 @@
+😉-Olá Eu Me Chamo Weslen ! 
 
+👦🏽Estou em trasiçao de carreira!
+
+💼-No momento Trabalho com Frentista
+💻-Atualmente sou Aluno Da Kenzie Academy Brasil.
 
 
 <div align="center">

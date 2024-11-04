@@ -1,21 +1,19 @@
-😉-Olá Eu Me Chamo Weslen ! 
+## ⚡ Weslen Santos ⚡
+**Desenvolvedor Full-Stack | Apaixonado por JavaScript**
 
-👦🏽Estou em trasiçao de carreira!
+Olá, eu sou o Weslen! Sou um desenvolvedor full-stack com paixão por criar soluções web inovadoras. Gosto de explorar novas tecnologias e construir projetos que façam a diferença.
 
-💼-No momento Trabalho com Frentista
-💻-Atualmente sou Aluno Da Kenzie Academy Brasil.
+### ️ Habilidades
+* **Front-end:** HTML, CSS, JavaScript, React.
+* **Back-end:** Node.js, NextJs, Python, Django
+* **Banco de dados:** PostgreSQL, MongoDB FireBase
+* **Cloud:** AWS, GCP
+* **Outras:** Git, TypeScript
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  
-</div>
-  
-  ##
- 
-<div> 
- 
-  <a href="https://www.instagram.com/weehdsantos/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/weslensantostecnologia/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+###  Projetos
+* **Meu Portifólio:** Uma vitrine dos meus projetos pessoais. 
+* **App de Receitas:** Um aplicativo web para gerenciar receitas culinárias. 
+
+###  Contato
+* **LinkedIn:** https://www.linkedin.com/in/weslen-santos-b34974172/
+* **E-mail:** Weslensantos42@gmail.com

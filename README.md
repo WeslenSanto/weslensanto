@@ -4,8 +4,8 @@
 Olá, eu sou o Weslen! Sou um desenvolvedor full-stack com paixão por criar soluções web inovadoras. Gosto de explorar novas tecnologias e construir projetos que façam a diferença.
 
 ### ️ Habilidades
-* **Front-end:** HTML, CSS, JavaScript, React.
-* **Back-end:** Node.js, NextJs, Python, Django
+* **Front-end:** HTML, CSS, JavaScript, JQuery, C#, React.
+* **Back-end:** Node.js, NextJs.
 * **Banco de dados:** PostgreSQL, MongoDB FireBase
 * **Cloud:** AWS, GCP
 * **Outras:** Git, TypeScript
